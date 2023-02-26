@@ -17,7 +17,7 @@ This repository contains code and examples and a report related to Monte Carlo s
 Monte Carlo Simulation
 The MonteCarlo_DetectionEstimation.m file contains a MonteCarloSimulation that can be used to perform Monte Carlo simulations. The code is easy written an dcommented for understanding.
 
-##License
+## License
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
