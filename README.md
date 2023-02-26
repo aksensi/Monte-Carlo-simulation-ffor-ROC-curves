@@ -15,7 +15,8 @@ Monte Carlo simulation is a computational method used to estimate the probabilit
 This repository contains code and examples and a report related to Monte Carlo simulation and ROC curve using MATLAB.
 
 Monte Carlo Simulation
-The MonteCarlo_DetectionEstimation.m file contains a MonteCarloSimulation that can be used to perform Monte Carlo simulations. The code is easy written an dcommented for understanding.
+The 'MonteCarlo_aksensi.m' file contains a MonteCarloSimulation that can be used to perform Monte Carlo simulations. The code is easy written an dcommented for understanding.
+The results of the trails are in the report with detailed explainatioins and equations.
 
 ## License
 
