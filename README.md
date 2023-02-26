@@ -1,2 +1,2 @@
-# Monte-Carlo-simulation-ffor-ROC-curves
+# Monte-Carlo-simulation-for-ROC-curves
 Academic Project
